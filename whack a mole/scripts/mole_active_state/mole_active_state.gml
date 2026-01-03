@@ -8,9 +8,9 @@ function mole_active_state(){
 	hittable = true;
 	//set alarm to deactivate again
 	if(alarm_get(0) = -1){
-		duration = random(2);
-		if (duration < .5){
-			duration = .5;
+		duration = random(3);
+		if (duration < .75){
+			duration = .75;
 		}
 		alarm[0] = duration*game_get_speed(gamespeed_fps);
 	}
