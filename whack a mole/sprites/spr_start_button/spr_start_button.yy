@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"RestartButton",
+  "%Name":"spr_start_button",
   "bboxMode":0,
   "bbox_bottom":37,
   "bbox_left":0,
@@ -19,10 +19,10 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a6ea274a-66f6-4db4-97fe-27e0edb8b933","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"a6ea274a-66f6-4db4-97fe-27e0edb8b933","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a04e760a-9ea1-4c69-a1b0-d9200f1235b9","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"a04e760a-9ea1-4c69-a1b0-d9200f1235b9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b2957018-0c47-46c5-b814-79f395cd0216","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"b2957018-0c47-46c5-b814-79f395cd0216","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"RestartButton",
+  "name":"spr_start_button",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"RestartButton",
+    "%Name":"spr_start_button",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"RestartButton",
+    "name":"spr_start_button",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -72,7 +72,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"76ec6b6c-d595-4287-b26b-ae29893d9688","path":"sprites/RestartButton/RestartButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"76ec6b6c-d595-4287-b26b-ae29893d9688","path":"sprites/spr_start_button/spr_start_button.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"443bac2a-df2b-4994-948f-e38fbe408447","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
